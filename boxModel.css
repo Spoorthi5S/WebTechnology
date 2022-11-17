@@ -1,0 +1,16 @@
+.box{
+    /*padding-left: 80px;
+    padding-bottom: 80px;
+    padding-right: 80px;
+    padding-top: 80px;*/
+    padding:10px 30px 70px 60px;
+    border: 8px solid red;
+    margin: 30px;
+    background-color: blueviolet;
+}
+
+.rect{
+    border: 2px solid green;
+    height: 100px;
+    width: 200px;
+}

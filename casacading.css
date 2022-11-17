@@ -1,0 +1,21 @@
+h1{
+    color:darkturquoise;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+h2,h3{
+    color:blue;
+    font-size: 120px;
+    text-transform: lowercase;
+}
+
+.classSelector{
+    color:olive;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:underline;
+
+}
+#header{
+    color:darkorange;
+    font-size: 100px;
+}
